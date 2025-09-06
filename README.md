@@ -5,6 +5,8 @@ python code to detect faulty credit card detection
 ## Overview
 This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset contains transaction details, and the goal is to classify transactions as fraudulent or genuine.
 
+## link to repository  
+-- https://github.com/Slother12/Credit-card-fault-detection
 ## Features
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
